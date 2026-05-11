@@ -12,7 +12,7 @@ Select a hero commander, spawn units across three tiers, collect roguelike upgra
 
 ---
 
-## 👥 Team
+## 👥 Teams
 
 | Member | Role |
 |--------|------|
